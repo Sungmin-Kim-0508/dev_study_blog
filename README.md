@@ -185,8 +185,10 @@ dev_study_blog/
 │   └── [문제상황]/
 ├── deep-dive/                # 딥다이브 분석
 │   └── [기술명]/
-└── til/                      # Today I Learned
-    └── YYYY-MM/
+├── TIL/                # 딥다이브 분석
+│   └── [YYYY-MM]/
+└── plans/                    # 계획 및 회고
+    └── [연도]/
 ```
 
 ### 파일 네이밍 컨벤션
